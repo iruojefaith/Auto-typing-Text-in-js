@@ -1,5 +1,5 @@
-const textDisplay = document.getElementById('text')
-const phrases = ['Hello, my name is Ania.', 'I love to code.', 'I love to teach.']
+const textDisplay = document.querySelector('#text')
+const phrases = ['Hello, my name is Faith.', 'I love to code.', 'I love what i do.']
 let i = 0
 let j = 0
 let currentPhrase = []
